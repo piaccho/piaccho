@@ -63,7 +63,3 @@ I am a Computer Science student, aspiring to be a Software Developer <img src="h
 </p>
 
 ---
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piaccho&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
